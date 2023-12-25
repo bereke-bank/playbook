@@ -23,7 +23,7 @@ Bereke Bank, бывший ДБ АО "Сбербанк России", прошё�
 
 # Куда смотреть дальше?
 
-- [Миссия и ценности компании](https://github.com/bereke-bank/playbook/blob/dev/mission-and-values.md)
-- [Структура команд](https://github.com/bereke-bank/playbook/blob/dev/structure.md)
-- [Профили QA](https://github.com/bereke-bank/playbook/blob/dev/QA-profile.md)
-- [Профили системных аналитиков](https://github.com/bereke-bank/playbook/blob/dev/SA-profile.md)
+- [Миссия и ценности компании](/mission-and-values.md)
+- [Структура команд](/structure.md)
+- [Профили QA](/QA-profile.md)
+- [Профили системных аналитиков](/SA-profile.md)
